@@ -13,6 +13,7 @@ import frames.GEDrawingPanel;
 
 public class GEColorMenu extends JMenu {
 	
+	private int num;
 	
 	private GEDrawingPanel drawingPanel;
 	
