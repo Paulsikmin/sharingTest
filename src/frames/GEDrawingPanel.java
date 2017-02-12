@@ -41,7 +41,7 @@ public class GEDrawingPanel extends JPanel {
 
 		this.addMouseListener(event); // method in abstract class 'Component'
 		this.addMouseMotionListener(event);
-
+		
 		shapeList = new ArrayList<>(); // ArrayList for saving drawings
 
 		currentState = State.Idle;

@@ -8,6 +8,8 @@ public class GELauncher {
 
 		GEMainFrame frame = new GEMainFrame(GEConstants.MAINFRAME_TITLE);	// MainFrame new, set title
 		frame.initialization();		// method run
+		
+		int nothing;
 
 	}
 
