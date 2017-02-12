@@ -11,7 +11,7 @@ import constants.GEConstants;
 import constants.GEConstants.AnchorTypes;
 
 public class GEAnchorList {
-	
+//	show me the money
 	private List<Ellipse2D> anchors;		// anchors in this List
 	
 	public GEAnchorList() {
